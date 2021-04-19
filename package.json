@@ -1,6 +1,6 @@
 {
   "name": "@developer119/use-title",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Created with CodeSandbox",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,22 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "dependencies": {
+    "loose-envify": "^1.4.0",
+    "js-tokens": "^4.0.0",
+    "object-assign": "^4.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "scheduler": "^0.20.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer119korea/UseTitle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/developer119korea/UseTitle/issues"
+  },
+  "homepage": "https://github.com/developer119korea/UseTitle#readme"
 }
